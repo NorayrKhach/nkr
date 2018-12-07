@@ -1,0 +1,30 @@
+/*.unmute{
+			background-image: url(http://franriavilla.in/images/unmute.png);
+			background-size: cover;
+			width:35px;
+			height:30px;
+			cursor: pointer;
+			top:10;
+			left:30;
+			position: fixed;
+}
+
+.mute	{
+			background-image: url(http://franriavilla.in/images/mute.png);
+			
+}*/
+
+button {
+    display: inline-block;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 50px;
+}
+
+#close-image img, #close-CSS img {
+    display: block;
+    height: 50px;  
+    width: 50px;
+}
